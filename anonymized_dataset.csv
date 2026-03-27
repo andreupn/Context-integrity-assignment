@@ -1,0 +1,301 @@
+State_Business_ID,Entity_Type,Industry_Sector,NAICS_Code,Business_Status,City,County,State,Owner_Title,Zoning_Classification,Tax_Lien_Flag,Number_of_Employees_Binned,Owner_Age_Binned,Company_Age_Binned,Annual_Revenue_Binned
+PA-BUS-9406983,Corp.,Wholesale Trade,440673,Active,Harrisburg,Dauphin,PA,Owner,Agricultural,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),<500K
+PA-BUS-7099530,PC,Retail Trade,807620,Active,Pittsburgh,Allegheny,PA,Principal,Commercial,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-4187908,LLP,Insurance,177871,Active,Reading,Berks,PA,Principal,Industrial,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-8426297,Inc.,Insurance,784953,Active,King of Prussia,Montgomery,PA,President,Industrial,No,Small (<250),Young (<35),Mature Stage (20+ years),<500K
+PA-BUS-9180242,Corp.,Legal Services,117943,Active,Scranton,Lackawanna,PA,CEO,Mixed-Use,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-6431882,Corp.,Professional Services,275094,Active,Hanover,York,PA,Owner,Industrial,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-1927904,Corp.,Entertainment & Recreation,539755,Active,Allentown,Lehigh,PA,Principal,Mixed-Use,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-9047740,Corp.,Manufacturing,732852,Revoked,Scranton,Lackawanna,PA,CEO,Residential,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-8352802,LLC,Food Service & Restaurant,368248,Pending,Lancaster,Lancaster,PA,Principal,Mixed-Use,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-8169423,LLC,Construction,526669,Active,Kutztown,Berks,PA,Managing Partner,Residential,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-2226138,Sole Proprietorship,Accounting & Tax,562990,Active,Reading,Berks,PA,President,Mixed-Use,No,Small (<250),Young (<35),Mature Stage (20+ years),<500K
+PA-BUS-6949960,Inc.,Entertainment & Recreation,715987,Revoked,Bethlehem,Northampton,PA,Managing Partner,Industrial,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-3065444,Corp.,Food Service & Restaurant,504445,Dissolved,Levittown,Bucks,PA,Owner,Commercial,No,Small (<250),Senior (55+),Mature Stage (20+ years),500K-5M
+PA-BUS-9019156,LLC,Wholesale Trade,378795,Active,Lancaster,Lancaster,PA,Managing Partner,Agricultural,No,Small (<250),Young (<35),Mature Stage (20+ years),500K-5M
+PA-BUS-3975579,DBA,Professional Services,703114,Active,Philadelphia,Philadelphia,PA,Principal,Commercial,No,Small (<250),Young (<35),Mature Stage (20+ years),>5M
+PA-BUS-5449004,Inc.,Real Estate,763233,Active,Media,Delaware,PA,CEO,Mixed-Use,Yes,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-6224943,LLC,Wholesale Trade,610487,Active,Philadelphia,Philadelphia,PA,Managing Partner,Residential,No,Small (<250),Senior (55+),Mature Stage (20+ years),500K-5M
+PA-BUS-6513425,Inc.,Auto Services,595708,Active,West Chester,Chester,PA,Principal,Agricultural,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),500K-5M
+PA-BUS-4604353,Corp.,Auto Services,586317,Active,Scranton,Lackawanna,PA,CEO,Agricultural,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),<500K
+PA-BUS-3017925,LLC,Technology & IT,688314,Active,Erie,Erie,PA,President,Mixed-Use,No,Small (<250),Senior (55+),Early Stage (<20 years),500K-5M
+PA-BUS-3663379,LLC,Accounting & Tax,216112,Dissolved,York,York,PA,Director,Industrial,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),<500K
+PA-BUS-1993584,LLP,Manufacturing,541419,Revoked,Scranton,Lackawanna,PA,Principal,Industrial,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-9734558,Inc.,Transportation & Logistics,437385,Revoked,Lancaster,Lancaster,PA,Principal,Agricultural,No,Small (<250),Senior (55+),Mature Stage (20+ years),500K-5M
+PA-BUS-4768723,LLP,Insurance,659346,Dissolved,Hanover,York,PA,Managing Partner,Commercial,No,Small (<250),Senior (55+),Mature Stage (20+ years),500K-5M
+PA-BUS-5458615,Inc.,Professional Services,220125,Dissolved,Allentown,Lehigh,PA,Owner,Residential,No,Small (<250),Senior (55+),Mature Stage (20+ years),500K-5M
+PA-BUS-1625391,Corp.,Auto Services,529169,Active,Allentown,Lehigh,PA,Director,Residential,No,Small (<250),Middle-Aged (35-54),Early Stage (<20 years),<500K
+PA-BUS-6400269,LLC,Entertainment & Recreation,531925,Dissolved,Wilkes-Barre,Luzerne,PA,Owner,Mixed-Use,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),>5M
+PA-BUS-3827685,Corp.,Transportation & Logistics,449548,Revoked,Philadelphia,Philadelphia,PA,CEO,Commercial,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),<500K
+PA-BUS-6433071,LLC,Cleaning & Maintenance,346855,Revoked,Reading,Berks,PA,Director,Residential,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-7704457,LLP,Transportation & Logistics,768834,Active,Pittsburgh,Allegheny,PA,President,Agricultural,No,Small (<250),Young (<35),Early Stage (<20 years),<500K
+PA-BUS-4757489,LLC,Transportation & Logistics,598998,Dissolved,Media,Delaware,PA,CEO,Mixed-Use,No,Small (<250),Senior (55+),Mature Stage (20+ years),500K-5M
+PA-BUS-3237355,LLC,Technology & IT,526604,Dissolved,Allentown,Lehigh,PA,President,Industrial,No,Small (<250),Senior (55+),Early Stage (<20 years),500K-5M
+PA-BUS-3004878,DBA,Healthcare & Medical,459017,Dissolved,Media,Delaware,PA,Director,Commercial,No,Small (<250),Senior (55+),Mature Stage (20+ years),500K-5M
+PA-BUS-9789034,Corp.,Healthcare & Medical,381399,Active,Media,Delaware,PA,President,Commercial,No,Small (<250),Senior (55+),Mature Stage (20+ years),>5M
+PA-BUS-7277502,DBA,Accounting & Tax,712976,Active,Philadelphia,Philadelphia,PA,CEO,Industrial,No,Small (<250),Young (<35),Mature Stage (20+ years),500K-5M
+PA-BUS-2098296,Corp.,Insurance,465889,Active,Reading,Berks,PA,Managing Partner,Industrial,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-5915038,PC,Legal Services,767874,Dissolved,Norristown,Montgomery,PA,Director,Residential,No,Small (<250),Middle-Aged (35-54),Early Stage (<20 years),<500K
+PA-BUS-1792011,Inc.,Cleaning & Maintenance,428771,Active,Hanover,York,PA,President,Residential,No,Small (<250),Senior (55+),Early Stage (<20 years),500K-5M
+PA-BUS-5033031,LLP,Accounting & Tax,802744,Active,Harrisburg,Dauphin,PA,Principal,Mixed-Use,No,Small (<250),Senior (55+),Mature Stage (20+ years),500K-5M
+PA-BUS-5251774,Inc.,Cleaning & Maintenance,740391,Active,Coatesville,Chester,PA,Principal,Commercial,No,Small (<250),Senior (55+),Early Stage (<20 years),>5M
+PA-BUS-7625427,Corp.,Professional Services,323054,Dissolved,Media,Delaware,PA,Principal,Commercial,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),500K-5M
+PA-BUS-1734135,LLC,Transportation & Logistics,707541,Active,Pittsburgh,Allegheny,PA,Managing Partner,Commercial,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-6327664,Inc.,Healthcare & Medical,170578,Active,Pittsburgh,Allegheny,PA,President,Commercial,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),500K-5M
+PA-BUS-5739034,LLC,Healthcare & Medical,757084,Active,Kutztown,Berks,PA,CEO,Residential,No,Small (<250),Young (<35),Mature Stage (20+ years),500K-5M
+PA-BUS-4808186,Sole Proprietorship,Agriculture,532879,Active,Harrisburg,Dauphin,PA,Managing Partner,Industrial,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-7288379,Corp.,Agriculture,786392,Revoked,Lancaster,Lancaster,PA,CEO,Mixed-Use,No,Small (<250),Senior (55+),Early Stage (<20 years),500K-5M
+PA-BUS-7742368,PC,Cleaning & Maintenance,714113,Active,Pittsburgh,Allegheny,PA,CEO,Industrial,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),>5M
+PA-BUS-7089123,Corp.,Cleaning & Maintenance,764615,Active,King of Prussia,Montgomery,PA,President,Mixed-Use,No,Small (<250),Senior (55+),Mature Stage (20+ years),>5M
+PA-BUS-3274969,LP,Technology & IT,510564,Revoked,West Chester,Chester,PA,Managing Partner,Residential,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-1267689,Inc.,Retail Trade,763179,Active,Wilkes-Barre,Luzerne,PA,Principal,Agricultural,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),<500K
+PA-BUS-1322326,PC,Retail Trade,428524,Active,Doylestown,Bucks,PA,Owner,Residential,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-5076209,LLC,Accounting & Tax,189139,Active,Lancaster,Lancaster,PA,Owner,Industrial,No,Large (>=250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-1064443,Corp.,Education,565111,Pending,King of Prussia,Montgomery,PA,Director,Industrial,No,Small (<250),Senior (55+),Mature Stage (20+ years),500K-5M
+PA-BUS-4157447,Inc.,Real Estate,307244,Active,Lancaster,Lancaster,PA,President,Mixed-Use,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-2341365,Inc.,Financial Services,578703,Active,Lancaster,Lancaster,PA,Owner,Commercial,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-8791214,Inc.,Education,585251,Active,West Chester,Chester,PA,CEO,Industrial,No,Small (<250),Young (<35),Early Stage (<20 years),<500K
+PA-BUS-7580559,Sole Proprietorship,Healthcare & Medical,277116,Active,Philadelphia,Philadelphia,PA,CEO,Mixed-Use,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-6680438,Inc.,Technology & IT,772194,Dissolved,King of Prussia,Montgomery,PA,CEO,Mixed-Use,No,Small (<250),Middle-Aged (35-54),Early Stage (<20 years),<500K
+PA-BUS-6554277,LLC,Personal Services,314929,Active,Pittsburgh,Allegheny,PA,CEO,Industrial,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-7103256,Inc.,Legal Services,172998,Active,King of Prussia,Montgomery,PA,Managing Partner,Residential,No,Small (<250),Young (<35),Early Stage (<20 years),<500K
+PA-BUS-8096616,Inc.,Manufacturing,122554,Active,West Chester,Chester,PA,Director,Mixed-Use,No,Small (<250),Senior (55+),Mature Stage (20+ years),>5M
+PA-BUS-1879520,LLC,Healthcare & Medical,453509,Pending,Philadelphia,Philadelphia,PA,Managing Partner,Agricultural,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-9770802,Corp.,Wholesale Trade,282428,Active,Erie,Erie,PA,President,Industrial,No,Small (<250),Middle-Aged (35-54),Early Stage (<20 years),<500K
+PA-BUS-4783595,Inc.,Insurance,613056,Revoked,West Chester,Chester,PA,CEO,Commercial,Yes,Small (<250),Middle-Aged (35-54),Early Stage (<20 years),<500K
+PA-BUS-3754469,LP,Wholesale Trade,527584,Revoked,Pittsburgh,Allegheny,PA,Director,Industrial,No,Large (>=250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-2790625,Inc.,Technology & IT,326679,Active,Erie,Erie,PA,Managing Partner,Industrial,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-9249059,LLC,Food Service & Restaurant,614610,Active,Media,Delaware,PA,Owner,Agricultural,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-3014549,Corp.,Retail Trade,427832,Active,Philadelphia,Philadelphia,PA,Principal,Industrial,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-9345380,LLC,Construction,564606,Active,Bethlehem,Northampton,PA,Managing Partner,Residential,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-7162223,Corp.,Real Estate,589530,Pending,Philadelphia,Philadelphia,PA,Director,Residential,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),>5M
+PA-BUS-6583525,Corp.,Personal Services,487201,Pending,Coatesville,Chester,PA,Principal,Residential,No,Small (<250),Middle-Aged (35-54),Early Stage (<20 years),500K-5M
+PA-BUS-4804776,Inc.,Insurance,462277,Active,Pittsburgh,Allegheny,PA,President,Residential,No,Small (<250),Middle-Aged (35-54),Early Stage (<20 years),<500K
+PA-BUS-6081107,Inc.,Entertainment & Recreation,330518,Pending,Kutztown,Berks,PA,Principal,Agricultural,No,Small (<250),Senior (55+),Mature Stage (20+ years),500K-5M
+PA-BUS-9243207,LLC,Construction,144159,Dissolved,Philadelphia,Philadelphia,PA,Owner,Residential,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-5049661,LP,Entertainment & Recreation,744039,Active,Media,Delaware,PA,Managing Partner,Residential,Yes,Small (<250),Senior (55+),Early Stage (<20 years),500K-5M
+PA-BUS-8578703,LLC,Healthcare & Medical,418751,Active,Scranton,Lackawanna,PA,Managing Partner,Industrial,Yes,Small (<250),Young (<35),Early Stage (<20 years),<500K
+PA-BUS-3335477,LLC,Legal Services,249520,Active,Lititz,Lancaster,PA,CEO,Agricultural,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-4133828,Corp.,Professional Services,808036,Revoked,Coatesville,Chester,PA,Principal,Industrial,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-6089270,Inc.,Professional Services,254829,Active,Kutztown,Berks,PA,President,Mixed-Use,No,Small (<250),Senior (55+),Mature Stage (20+ years),500K-5M
+PA-BUS-1719891,LLC,Wholesale Trade,447165,Active,Norristown,Montgomery,PA,Director,Residential,Yes,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-5711603,Inc.,Accounting & Tax,598180,Active,Lancaster,Lancaster,PA,Director,Mixed-Use,No,Small (<250),Senior (55+),Mature Stage (20+ years),500K-5M
+PA-BUS-5016713,Inc.,Auto Services,704619,Pending,West Chester,Chester,PA,Principal,Industrial,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-5144427,LLC,Entertainment & Recreation,326837,Active,West Chester,Chester,PA,Principal,Agricultural,No,Small (<250),Young (<35),Early Stage (<20 years),500K-5M
+PA-BUS-9575143,Inc.,Manufacturing,706128,Active,Bethlehem,Northampton,PA,Director,Residential,No,Small (<250),Middle-Aged (35-54),Early Stage (<20 years),<500K
+PA-BUS-1165357,Inc.,Education,227954,Active,Bethlehem,Northampton,PA,President,Mixed-Use,No,Small (<250),Young (<35),Mature Stage (20+ years),500K-5M
+PA-BUS-5130432,Corp.,Auto Services,537253,Dissolved,Levittown,Bucks,PA,CEO,Industrial,No,Small (<250),Young (<35),Mature Stage (20+ years),<500K
+PA-BUS-8325776,LLC,Financial Services,660496,Active,Pittsburgh,Allegheny,PA,Managing Partner,Mixed-Use,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-7524153,LLC,Construction,710535,Active,Allentown,Lehigh,PA,CEO,Mixed-Use,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-2509488,LLC,Transportation & Logistics,277575,Active,Lititz,Lancaster,PA,Director,Commercial,No,Small (<250),Young (<35),Mature Stage (20+ years),>5M
+PA-BUS-1288262,LLC,Healthcare & Medical,315986,Active,Doylestown,Bucks,PA,President,Agricultural,No,Small (<250),Young (<35),Mature Stage (20+ years),<500K
+PA-BUS-3615725,Inc.,Personal Services,249827,Active,Doylestown,Bucks,PA,Owner,Industrial,No,Small (<250),Middle-Aged (35-54),Early Stage (<20 years),>5M
+PA-BUS-5218292,Corp.,Transportation & Logistics,660008,Active,Doylestown,Bucks,PA,Principal,Residential,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),<500K
+PA-BUS-3387655,LLP,Professional Services,128283,Dissolved,Philadelphia,Philadelphia,PA,President,Industrial,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-1679886,PC,Agriculture,613858,Active,Lancaster,Lancaster,PA,Managing Partner,Commercial,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),<500K
+PA-BUS-8355095,Corp.,Insurance,622308,Dissolved,Reading,Berks,PA,Director,Residential,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),<500K
+PA-BUS-4263058,LLC,Healthcare & Medical,549808,Active,Scranton,Lackawanna,PA,President,Agricultural,No,Small (<250),Young (<35),Early Stage (<20 years),<500K
+PA-BUS-6546545,Sole Proprietorship,Technology & IT,773311,Pending,Kutztown,Berks,PA,President,Mixed-Use,No,Small (<250),Senior (55+),Early Stage (<20 years),>5M
+PA-BUS-3571246,LLC,Retail Trade,214496,Active,Media,Delaware,PA,President,Agricultural,No,Small (<250),Young (<35),Mature Stage (20+ years),>5M
+PA-BUS-7800102,LLC,Cleaning & Maintenance,562108,Revoked,Lititz,Lancaster,PA,President,Industrial,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-6993668,LLP,Professional Services,809522,Revoked,West Chester,Chester,PA,Principal,Agricultural,No,Small (<250),Young (<35),Mature Stage (20+ years),>5M
+PA-BUS-9638445,Sole Proprietorship,Cleaning & Maintenance,211899,Pending,West Chester,Chester,PA,Director,Residential,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),<500K
+PA-BUS-2974982,Corp.,Agriculture,265963,Revoked,Philadelphia,Philadelphia,PA,Owner,Commercial,No,Small (<250),Senior (55+),Mature Stage (20+ years),500K-5M
+PA-BUS-4129999,Inc.,Legal Services,632899,Active,Erie,Erie,PA,President,Residential,No,Small (<250),Senior (55+),Mature Stage (20+ years),>5M
+PA-BUS-8010698,Corp.,Auto Services,151426,Revoked,York,York,PA,CEO,Commercial,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-1746815,Inc.,Accounting & Tax,409414,Active,Allentown,Lehigh,PA,Director,Mixed-Use,Yes,Small (<250),Young (<35),Mature Stage (20+ years),<500K
+PA-BUS-4721202,PC,Cleaning & Maintenance,582182,Pending,Philadelphia,Philadelphia,PA,President,Industrial,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-2336756,LLC,Financial Services,455855,Active,Philadelphia,Philadelphia,PA,Managing Partner,Industrial,No,Small (<250),Young (<35),Early Stage (<20 years),>5M
+PA-BUS-8571416,Inc.,Entertainment & Recreation,465035,Active,Pittsburgh,Allegheny,PA,Principal,Commercial,No,Small (<250),Senior (55+),Early Stage (<20 years),>5M
+PA-BUS-4257639,LP,Personal Services,613053,Active,Reading,Berks,PA,President,Mixed-Use,Yes,Large (>=250),Young (<35),Mature Stage (20+ years),>5M
+PA-BUS-6962982,LLC,Cleaning & Maintenance,129063,Active,Pittsburgh,Allegheny,PA,Director,Mixed-Use,No,Small (<250),Middle-Aged (35-54),Early Stage (<20 years),500K-5M
+PA-BUS-3297127,Inc.,Insurance,381937,Dissolved,West Chester,Chester,PA,Principal,Residential,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-6340384,Inc.,Financial Services,240847,Active,Lititz,Lancaster,PA,Director,Industrial,No,Small (<250),Young (<35),Mature Stage (20+ years),>5M
+PA-BUS-1067267,LP,Construction,223128,Active,King of Prussia,Montgomery,PA,Owner,Residential,Yes,Small (<250),Middle-Aged (35-54),Early Stage (<20 years),500K-5M
+PA-BUS-9265342,PC,Transportation & Logistics,685272,Active,Kutztown,Berks,PA,Principal,Industrial,Yes,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-4093012,LLC,Wholesale Trade,783059,Active,Harrisburg,Dauphin,PA,Principal,Agricultural,No,Small (<250),Young (<35),Early Stage (<20 years),500K-5M
+PA-BUS-7897563,Corp.,Wholesale Trade,508231,Active,Pittsburgh,Allegheny,PA,President,Agricultural,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),500K-5M
+PA-BUS-5755437,LLC,Transportation & Logistics,404006,Active,Norristown,Montgomery,PA,President,Industrial,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-7221563,LLC,Transportation & Logistics,658496,Active,Scranton,Lackawanna,PA,CEO,Mixed-Use,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-2819761,LLC,Professional Services,432328,Active,Reading,Berks,PA,CEO,Residential,No,Small (<250),Senior (55+),Mature Stage (20+ years),>5M
+PA-BUS-4880644,LLC,Legal Services,541797,Dissolved,Norristown,Montgomery,PA,Director,Commercial,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-2568840,Corp.,Transportation & Logistics,373586,Active,Erie,Erie,PA,President,Agricultural,No,Small (<250),Senior (55+),Early Stage (<20 years),>5M
+PA-BUS-1451296,LLC,Retail Trade,213357,Active,Philadelphia,Philadelphia,PA,Owner,Agricultural,Yes,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-1127889,LLC,Real Estate,290809,Pending,Pittsburgh,Allegheny,PA,President,Mixed-Use,Yes,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-8128409,LLC,Entertainment & Recreation,291606,Active,Lititz,Lancaster,PA,Director,Agricultural,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),500K-5M
+PA-BUS-4888965,LLC,Financial Services,243678,Active,West Chester,Chester,PA,Principal,Industrial,No,Small (<250),Young (<35),Early Stage (<20 years),500K-5M
+PA-BUS-2344809,LLC,Accounting & Tax,448586,Active,Kutztown,Berks,PA,CEO,Residential,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-7359320,LP,Retail Trade,231861,Active,Philadelphia,Philadelphia,PA,President,Agricultural,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),500K-5M
+PA-BUS-1046902,Inc.,Legal Services,805306,Active,Pittsburgh,Allegheny,PA,Owner,Mixed-Use,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),<500K
+PA-BUS-1660619,LLC,Healthcare & Medical,766487,Revoked,Bethlehem,Northampton,PA,CEO,Residential,Yes,Small (<250),Senior (55+),Early Stage (<20 years),500K-5M
+PA-BUS-9362556,Inc.,Personal Services,372221,Active,Lititz,Lancaster,PA,Managing Partner,Agricultural,No,Small (<250),Senior (55+),Mature Stage (20+ years),500K-5M
+PA-BUS-8229118,LLC,Construction,335373,Active,Reading,Berks,PA,Principal,Commercial,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-6162843,DBA,Wholesale Trade,542275,Active,York,York,PA,Principal,Mixed-Use,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-4626117,LLC,Insurance,330196,Active,Reading,Berks,PA,Managing Partner,Mixed-Use,No,Small (<250),Young (<35),Early Stage (<20 years),500K-5M
+PA-BUS-7794680,Corp.,Healthcare & Medical,786422,Pending,Wilkes-Barre,Luzerne,PA,Director,Mixed-Use,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-2879293,Inc.,Education,687554,Revoked,Philadelphia,Philadelphia,PA,President,Industrial,No,Large (>=250),Senior (55+),Early Stage (<20 years),500K-5M
+PA-BUS-4789035,LLC,Financial Services,353697,Active,King of Prussia,Montgomery,PA,CEO,Residential,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-7154486,LLC,Technology & IT,772214,Pending,Wilkes-Barre,Luzerne,PA,President,Commercial,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-4571088,Inc.,Professional Services,215910,Active,Hanover,York,PA,Owner,Industrial,No,Small (<250),Middle-Aged (35-54),Early Stage (<20 years),<500K
+PA-BUS-1083198,Inc.,Entertainment & Recreation,664558,Pending,Coatesville,Chester,PA,CEO,Residential,No,Small (<250),Young (<35),Early Stage (<20 years),500K-5M
+PA-BUS-1264631,LLC,Food Service & Restaurant,586228,Active,King of Prussia,Montgomery,PA,Managing Partner,Mixed-Use,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-5939338,LP,Auto Services,133416,Pending,Scranton,Lackawanna,PA,CEO,Agricultural,No,Small (<250),Young (<35),Early Stage (<20 years),500K-5M
+PA-BUS-3917803,LLC,Transportation & Logistics,337504,Active,Norristown,Montgomery,PA,Director,Mixed-Use,No,Small (<250),Middle-Aged (35-54),Early Stage (<20 years),<500K
+PA-BUS-8283754,Corp.,Accounting & Tax,804133,Revoked,Reading,Berks,PA,Director,Mixed-Use,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),>5M
+PA-BUS-9540127,PC,Real Estate,396219,Active,Wilkes-Barre,Luzerne,PA,Director,Commercial,No,Small (<250),Senior (55+),Early Stage (<20 years),500K-5M
+PA-BUS-2343929,Inc.,Wholesale Trade,418379,Revoked,Scranton,Lackawanna,PA,Principal,Agricultural,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-7906275,LLC,Auto Services,247455,Dissolved,Philadelphia,Philadelphia,PA,President,Agricultural,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),<500K
+PA-BUS-2823906,PC,Technology & IT,600997,Active,Philadelphia,Philadelphia,PA,CEO,Agricultural,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),>5M
+PA-BUS-5439229,Corp.,Retail Trade,732448,Dissolved,Norristown,Montgomery,PA,Director,Commercial,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-2261287,Inc.,Professional Services,125804,Pending,West Chester,Chester,PA,Managing Partner,Industrial,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),500K-5M
+PA-BUS-4840443,Inc.,Entertainment & Recreation,711341,Pending,Kutztown,Berks,PA,Director,Residential,No,Small (<250),Senior (55+),Early Stage (<20 years),500K-5M
+PA-BUS-4027431,Corp.,Professional Services,345894,Pending,Media,Delaware,PA,CEO,Mixed-Use,No,Small (<250),Senior (55+),Mature Stage (20+ years),>5M
+PA-BUS-5504975,Sole Proprietorship,Professional Services,357755,Active,Lancaster,Lancaster,PA,President,Residential,No,Small (<250),Young (<35),Early Stage (<20 years),500K-5M
+PA-BUS-8581014,LLP,Food Service & Restaurant,767587,Active,Kutztown,Berks,PA,CEO,Agricultural,No,Small (<250),Senior (55+),Early Stage (<20 years),>5M
+PA-BUS-3515191,PC,Wholesale Trade,765045,Active,York,York,PA,Owner,Agricultural,No,Small (<250),Middle-Aged (35-54),Early Stage (<20 years),>5M
+PA-BUS-8661071,Inc.,Real Estate,707952,Active,Media,Delaware,PA,Principal,Commercial,Yes,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-2729774,LLC,Technology & IT,467820,Active,Doylestown,Bucks,PA,Owner,Residential,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-7194675,Corp.,Legal Services,494683,Active,Harrisburg,Dauphin,PA,Principal,Commercial,No,Small (<250),Senior (55+),Early Stage (<20 years),500K-5M
+PA-BUS-9750032,LLC,Education,460930,Active,Doylestown,Bucks,PA,Principal,Agricultural,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),<500K
+PA-BUS-1269387,LLC,Agriculture,762035,Active,Coatesville,Chester,PA,Managing Partner,Mixed-Use,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),<500K
+PA-BUS-7747689,LP,Technology & IT,281807,Pending,Pittsburgh,Allegheny,PA,Managing Partner,Industrial,No,Large (>=250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-6323868,Inc.,Agriculture,754566,Active,Lititz,Lancaster,PA,Director,Mixed-Use,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-9061942,LLC,Retail Trade,146540,Active,Allentown,Lehigh,PA,CEO,Agricultural,No,Small (<250),Young (<35),Mature Stage (20+ years),<500K
+PA-BUS-3176618,LLC,Accounting & Tax,495197,Pending,Kutztown,Berks,PA,CEO,Agricultural,No,Small (<250),Middle-Aged (35-54),Early Stage (<20 years),<500K
+PA-BUS-7968718,LLC,Technology & IT,386246,Active,Coatesville,Chester,PA,Principal,Residential,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-6459880,LP,Wholesale Trade,260475,Active,York,York,PA,Owner,Agricultural,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-7911210,LLC,Technology & IT,290618,Pending,Lancaster,Lancaster,PA,Director,Commercial,No,Small (<250),Young (<35),Early Stage (<20 years),<500K
+PA-BUS-5862755,Inc.,Healthcare & Medical,370250,Active,Wilkes-Barre,Luzerne,PA,Owner,Commercial,No,Large (>=250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-3319875,PC,Cleaning & Maintenance,718842,Active,Wilkes-Barre,Luzerne,PA,Owner,Agricultural,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-6995577,LP,Wholesale Trade,304736,Active,Pittsburgh,Allegheny,PA,Managing Partner,Industrial,No,Large (>=250),Middle-Aged (35-54),Mature Stage (20+ years),<500K
+PA-BUS-4335973,Sole Proprietorship,Transportation & Logistics,612296,Active,Scranton,Lackawanna,PA,CEO,Mixed-Use,No,Small (<250),Young (<35),Early Stage (<20 years),<500K
+PA-BUS-1897639,Inc.,Legal Services,231870,Active,Norristown,Montgomery,PA,CEO,Agricultural,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-8238505,LLC,Technology & IT,509866,Pending,Pittsburgh,Allegheny,PA,Principal,Mixed-Use,No,Small (<250),Middle-Aged (35-54),Early Stage (<20 years),500K-5M
+PA-BUS-4248973,LLC,Financial Services,495651,Revoked,Pittsburgh,Allegheny,PA,President,Mixed-Use,No,Small (<250),Young (<35),Mature Stage (20+ years),<500K
+PA-BUS-2257435,LLC,Auto Services,274866,Active,Philadelphia,Philadelphia,PA,Owner,Commercial,No,Small (<250),Young (<35),Mature Stage (20+ years),<500K
+PA-BUS-6744356,Inc.,Insurance,446062,Active,Lititz,Lancaster,PA,Managing Partner,Mixed-Use,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),500K-5M
+PA-BUS-9045874,LLC,Professional Services,222704,Pending,Bethlehem,Northampton,PA,Director,Industrial,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-2634576,LLC,Professional Services,495144,Revoked,Lititz,Lancaster,PA,Managing Partner,Residential,No,Large (>=250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-2916056,LLC,Accounting & Tax,317211,Active,Erie,Erie,PA,President,Commercial,Yes,Small (<250),Senior (55+),Early Stage (<20 years),500K-5M
+PA-BUS-2324282,Inc.,Entertainment & Recreation,481502,Active,Coatesville,Chester,PA,Principal,Agricultural,Yes,Large (>=250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-4958617,Sole Proprietorship,Wholesale Trade,681407,Active,Media,Delaware,PA,Managing Partner,Agricultural,Yes,Small (<250),Young (<35),Mature Stage (20+ years),500K-5M
+PA-BUS-3017928,LLC,Construction,545824,Active,Scranton,Lackawanna,PA,Managing Partner,Residential,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),<500K
+PA-BUS-8483778,LLC,Financial Services,126482,Active,Pittsburgh,Allegheny,PA,Managing Partner,Commercial,No,Small (<250),Senior (55+),Early Stage (<20 years),500K-5M
+PA-BUS-9463380,LLC,Agriculture,724225,Active,Lititz,Lancaster,PA,President,Residential,No,Small (<250),Young (<35),Mature Stage (20+ years),500K-5M
+PA-BUS-7271311,Corp.,Financial Services,570037,Revoked,York,York,PA,CEO,Commercial,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-9467237,LLC,Construction,268854,Active,Doylestown,Bucks,PA,Principal,Residential,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-6939848,LLC,Personal Services,223316,Revoked,Harrisburg,Dauphin,PA,Managing Partner,Residential,No,Small (<250),Young (<35),Mature Stage (20+ years),<500K
+PA-BUS-2714793,PC,Entertainment & Recreation,515792,Active,Bethlehem,Northampton,PA,President,Industrial,No,Small (<250),Senior (55+),Early Stage (<20 years),>5M
+PA-BUS-8128881,Inc.,Healthcare & Medical,134236,Revoked,Scranton,Lackawanna,PA,Director,Agricultural,No,Large (>=250),Senior (55+),Early Stage (<20 years),500K-5M
+PA-BUS-1367938,LLC,Cleaning & Maintenance,284726,Active,Philadelphia,Philadelphia,PA,President,Mixed-Use,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-1701806,Inc.,Food Service & Restaurant,684371,Revoked,Hanover,York,PA,Principal,Agricultural,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),500K-5M
+PA-BUS-8387790,LLC,Construction,437862,Active,Lancaster,Lancaster,PA,CEO,Agricultural,No,Small (<250),Middle-Aged (35-54),Early Stage (<20 years),500K-5M
+PA-BUS-2037958,LP,Food Service & Restaurant,349209,Active,West Chester,Chester,PA,Owner,Agricultural,No,Small (<250),Senior (55+),Early Stage (<20 years),500K-5M
+PA-BUS-1787829,Sole Proprietorship,Healthcare & Medical,418675,Dissolved,Norristown,Montgomery,PA,President,Residential,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-9496348,Inc.,Food Service & Restaurant,749284,Active,Erie,Erie,PA,Managing Partner,Commercial,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),<500K
+PA-BUS-4037413,LLP,Technology & IT,584989,Revoked,Doylestown,Bucks,PA,CEO,Residential,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-9661579,Corp.,Wholesale Trade,526430,Active,Hanover,York,PA,Owner,Residential,No,Small (<250),Young (<35),Mature Stage (20+ years),<500K
+PA-BUS-6740329,Inc.,Retail Trade,350160,Active,Norristown,Montgomery,PA,President,Residential,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-7164406,LLC,Technology & IT,410171,Active,Scranton,Lackawanna,PA,CEO,Residential,No,Small (<250),Middle-Aged (35-54),Early Stage (<20 years),500K-5M
+PA-BUS-7367070,DBA,Agriculture,289070,Active,Philadelphia,Philadelphia,PA,CEO,Commercial,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-9635270,DBA,Food Service & Restaurant,183591,Active,Bethlehem,Northampton,PA,CEO,Residential,No,Small (<250),Senior (55+),Mature Stage (20+ years),500K-5M
+PA-BUS-1261214,Sole Proprietorship,Manufacturing,784072,Revoked,Reading,Berks,PA,Director,Mixed-Use,No,Small (<250),Senior (55+),Early Stage (<20 years),500K-5M
+PA-BUS-4901561,Corp.,Insurance,149308,Active,Pittsburgh,Allegheny,PA,Managing Partner,Commercial,No,Small (<250),Young (<35),Early Stage (<20 years),<500K
+PA-BUS-9675181,LLC,Real Estate,650795,Active,Erie,Erie,PA,CEO,Commercial,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-4176779,LLC,Transportation & Logistics,501884,Revoked,Pittsburgh,Allegheny,PA,President,Residential,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-4331212,PC,Transportation & Logistics,128832,Active,Erie,Erie,PA,Principal,Residential,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-2514920,DBA,Auto Services,346825,Active,Philadelphia,Philadelphia,PA,Managing Partner,Mixed-Use,Yes,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),<500K
+PA-BUS-1258815,LP,Legal Services,664710,Active,West Chester,Chester,PA,Owner,Industrial,No,Small (<250),Young (<35),Early Stage (<20 years),<500K
+PA-BUS-8626119,Sole Proprietorship,Legal Services,772824,Revoked,Reading,Berks,PA,Director,Agricultural,No,Small (<250),Middle-Aged (35-54),Early Stage (<20 years),<500K
+PA-BUS-2252054,LP,Auto Services,212373,Dissolved,Philadelphia,Philadelphia,PA,Managing Partner,Agricultural,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),<500K
+PA-BUS-7255358,DBA,Entertainment & Recreation,620829,Pending,Pittsburgh,Allegheny,PA,Managing Partner,Commercial,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-9440595,Inc.,Retail Trade,281980,Revoked,Philadelphia,Philadelphia,PA,Owner,Agricultural,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),>5M
+PA-BUS-2534558,Corp.,Accounting & Tax,232921,Active,Philadelphia,Philadelphia,PA,President,Agricultural,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),<500K
+PA-BUS-5302109,LLC,Entertainment & Recreation,796507,Pending,Pittsburgh,Allegheny,PA,CEO,Commercial,No,Small (<250),Senior (55+),Early Stage (<20 years),500K-5M
+PA-BUS-3369793,LP,Healthcare & Medical,608276,Active,Kutztown,Berks,PA,Owner,Industrial,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-7805368,LLC,Personal Services,397380,Active,Norristown,Montgomery,PA,Principal,Agricultural,No,Small (<250),Senior (55+),Mature Stage (20+ years),500K-5M
+PA-BUS-5642259,Sole Proprietorship,Manufacturing,163665,Active,York,York,PA,Principal,Residential,No,Small (<250),Senior (55+),Mature Stage (20+ years),500K-5M
+PA-BUS-7507886,LLC,Technology & IT,210467,Dissolved,Coatesville,Chester,PA,Principal,Agricultural,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-6995244,LLC,Technology & IT,173522,Dissolved,West Chester,Chester,PA,Principal,Commercial,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-1470606,LLP,Technology & IT,352911,Dissolved,Philadelphia,Philadelphia,PA,Managing Partner,Commercial,Yes,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-3923638,Corp.,Auto Services,683048,Active,Harrisburg,Dauphin,PA,Director,Mixed-Use,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-9035984,LLC,Construction,636398,Active,Harrisburg,Dauphin,PA,Director,Mixed-Use,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-6253006,Inc.,Personal Services,378605,Pending,Harrisburg,Dauphin,PA,Owner,Industrial,No,Small (<250),Senior (55+),Mature Stage (20+ years),500K-5M
+PA-BUS-9563707,Inc.,Technology & IT,376690,Dissolved,Pittsburgh,Allegheny,PA,Director,Industrial,Yes,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-8031000,Corp.,Retail Trade,298994,Pending,Lancaster,Lancaster,PA,CEO,Commercial,No,Small (<250),Senior (55+),Early Stage (<20 years),>5M
+PA-BUS-2132884,LLC,Agriculture,480808,Active,Coatesville,Chester,PA,Principal,Agricultural,No,Small (<250),Young (<35),Mature Stage (20+ years),500K-5M
+PA-BUS-1745865,Inc.,Professional Services,163899,Dissolved,Hanover,York,PA,Director,Mixed-Use,No,Large (>=250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-5941654,Inc.,Wholesale Trade,673833,Active,Scranton,Lackawanna,PA,President,Industrial,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-1850733,LLC,Legal Services,401563,Active,Harrisburg,Dauphin,PA,Director,Industrial,No,Small (<250),Young (<35),Mature Stage (20+ years),<500K
+PA-BUS-8381477,Corp.,Professional Services,590223,Active,Media,Delaware,PA,President,Residential,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),<500K
+PA-BUS-5628929,Corp.,Technology & IT,181239,Active,Allentown,Lehigh,PA,President,Agricultural,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-2014091,Inc.,Retail Trade,429034,Dissolved,Wilkes-Barre,Luzerne,PA,Managing Partner,Agricultural,No,Small (<250),Senior (55+),Early Stage (<20 years),500K-5M
+PA-BUS-5957964,Sole Proprietorship,Financial Services,265101,Dissolved,Bethlehem,Northampton,PA,Managing Partner,Mixed-Use,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-6684715,LLC,Healthcare & Medical,362162,Pending,Pittsburgh,Allegheny,PA,CEO,Industrial,No,Small (<250),Young (<35),Early Stage (<20 years),500K-5M
+PA-BUS-5505739,Inc.,Transportation & Logistics,634747,Active,Pittsburgh,Allegheny,PA,Principal,Mixed-Use,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),<500K
+PA-BUS-6758906,LLC,Transportation & Logistics,410531,Active,Media,Delaware,PA,Director,Mixed-Use,Yes,Small (<250),Middle-Aged (35-54),Early Stage (<20 years),<500K
+PA-BUS-5457623,Inc.,Education,301523,Dissolved,Wilkes-Barre,Luzerne,PA,CEO,Residential,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-3801999,LLC,Technology & IT,260100,Active,Harrisburg,Dauphin,PA,CEO,Commercial,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),<500K
+PA-BUS-7894129,LLC,Personal Services,469132,Pending,York,York,PA,Principal,Industrial,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),<500K
+PA-BUS-1765549,Corp.,Entertainment & Recreation,149243,Active,York,York,PA,Principal,Commercial,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-7343187,LLC,Real Estate,763779,Active,Pittsburgh,Allegheny,PA,Managing Partner,Mixed-Use,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),500K-5M
+PA-BUS-1023893,Inc.,Legal Services,412396,Dissolved,Scranton,Lackawanna,PA,CEO,Mixed-Use,No,Small (<250),Senior (55+),Mature Stage (20+ years),500K-5M
+PA-BUS-1647170,Inc.,Accounting & Tax,214573,Active,Coatesville,Chester,PA,Director,Commercial,No,Large (>=250),Senior (55+),Early Stage (<20 years),>5M
+PA-BUS-3376230,PC,Insurance,280335,Revoked,Pittsburgh,Allegheny,PA,Managing Partner,Agricultural,Yes,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),<500K
+PA-BUS-9918309,Sole Proprietorship,Auto Services,169224,Revoked,Levittown,Bucks,PA,Owner,Mixed-Use,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-7129975,LLC,Insurance,515982,Active,Pittsburgh,Allegheny,PA,CEO,Commercial,No,Small (<250),Middle-Aged (35-54),Early Stage (<20 years),<500K
+PA-BUS-4548716,LP,Construction,730749,Active,Philadelphia,Philadelphia,PA,Owner,Mixed-Use,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-9925148,LLC,Technology & IT,705159,Pending,Pittsburgh,Allegheny,PA,President,Residential,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-4980082,Inc.,Legal Services,779474,Pending,Hanover,York,PA,Managing Partner,Industrial,No,Small (<250),Senior (55+),Early Stage (<20 years),500K-5M
+PA-BUS-5744400,Corp.,Wholesale Trade,701500,Dissolved,Media,Delaware,PA,President,Residential,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-5310596,DBA,Agriculture,457796,Revoked,Philadelphia,Philadelphia,PA,Managing Partner,Commercial,Yes,Small (<250),Young (<35),Mature Stage (20+ years),<500K
+PA-BUS-8817371,Inc.,Wholesale Trade,119453,Pending,West Chester,Chester,PA,Director,Industrial,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-2224634,Inc.,Transportation & Logistics,431295,Dissolved,Reading,Berks,PA,Managing Partner,Agricultural,No,Small (<250),Middle-Aged (35-54),Early Stage (<20 years),<500K
+PA-BUS-9003202,LLP,Manufacturing,340251,Active,Wilkes-Barre,Luzerne,PA,Principal,Agricultural,No,Small (<250),Young (<35),Mature Stage (20+ years),<500K
+PA-BUS-8929208,LLC,Professional Services,725161,Active,Scranton,Lackawanna,PA,President,Industrial,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),>5M
+PA-BUS-9871204,Inc.,Financial Services,734913,Active,King of Prussia,Montgomery,PA,Principal,Residential,No,Small (<250),Senior (55+),Mature Stage (20+ years),500K-5M
+PA-BUS-1806278,Sole Proprietorship,Construction,325757,Dissolved,Bethlehem,Northampton,PA,Principal,Mixed-Use,No,Large (>=250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-3363377,LLC,Financial Services,707834,Active,Pittsburgh,Allegheny,PA,Managing Partner,Mixed-Use,No,Small (<250),Young (<35),Early Stage (<20 years),<500K
+PA-BUS-4039595,PC,Construction,581349,Active,Pittsburgh,Allegheny,PA,Director,Mixed-Use,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-8655347,LLC,Retail Trade,494050,Active,Norristown,Montgomery,PA,President,Commercial,No,Small (<250),Senior (55+),Early Stage (<20 years),500K-5M
+PA-BUS-3211404,LP,Education,160043,Dissolved,Scranton,Lackawanna,PA,CEO,Industrial,No,Small (<250),Young (<35),Mature Stage (20+ years),<500K
+PA-BUS-5424313,DBA,Healthcare & Medical,163587,Revoked,Wilkes-Barre,Luzerne,PA,Managing Partner,Residential,No,Small (<250),Senior (55+),Early Stage (<20 years),500K-5M
+PA-BUS-4125710,LLC,Construction,215684,Dissolved,Kutztown,Berks,PA,Owner,Industrial,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-2835292,Corp.,Insurance,629097,Active,Reading,Berks,PA,Principal,Commercial,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-5863660,Inc.,Technology & IT,419839,Active,Lancaster,Lancaster,PA,Owner,Mixed-Use,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-3683655,LLC,Agriculture,737878,Revoked,Reading,Berks,PA,Director,Mixed-Use,No,Small (<250),Senior (55+),Mature Stage (20+ years),500K-5M
+PA-BUS-2963364,LLC,Personal Services,185911,Revoked,York,York,PA,Director,Mixed-Use,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-9629731,LP,Auto Services,139492,Active,Philadelphia,Philadelphia,PA,Principal,Agricultural,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-8305474,LLC,Auto Services,680948,Active,Erie,Erie,PA,CEO,Residential,No,Small (<250),Senior (55+),Mature Stage (20+ years),500K-5M
+PA-BUS-7504808,Inc.,Manufacturing,779897,Active,Philadelphia,Philadelphia,PA,CEO,Residential,No,Small (<250),Young (<35),Early Stage (<20 years),<500K
+PA-BUS-9146974,LLC,Technology & IT,647016,Active,Scranton,Lackawanna,PA,Principal,Agricultural,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-1035751,LLC,Entertainment & Recreation,176528,Active,Philadelphia,Philadelphia,PA,President,Commercial,No,Small (<250),Young (<35),Early Stage (<20 years),<500K
+PA-BUS-2047699,LLC,Professional Services,173648,Active,Kutztown,Berks,PA,CEO,Residential,No,Small (<250),Young (<35),Mature Stage (20+ years),<500K
+PA-BUS-2757494,LLP,Technology & IT,370980,Active,Pittsburgh,Allegheny,PA,Principal,Residential,No,Small (<250),Senior (55+),Early Stage (<20 years),500K-5M
+PA-BUS-9271307,LLC,Transportation & Logistics,515485,Active,Philadelphia,Philadelphia,PA,Principal,Commercial,No,Small (<250),Young (<35),Mature Stage (20+ years),>5M
+PA-BUS-6014853,LLC,Insurance,478052,Active,Erie,Erie,PA,Managing Partner,Residential,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-1151539,LLC,Wholesale Trade,577031,Dissolved,Media,Delaware,PA,CEO,Mixed-Use,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-7805310,LP,Entertainment & Recreation,400306,Revoked,Philadelphia,Philadelphia,PA,Director,Commercial,No,Small (<250),Young (<35),Mature Stage (20+ years),<500K
+PA-BUS-6480563,LLC,Agriculture,290313,Active,Reading,Berks,PA,Director,Commercial,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-6119085,Inc.,Insurance,810255,Active,Lancaster,Lancaster,PA,Director,Agricultural,No,Large (>=250),Senior (55+),Mature Stage (20+ years),500K-5M
+PA-BUS-7499536,LLC,Transportation & Logistics,418116,Active,Erie,Erie,PA,Owner,Commercial,No,Small (<250),Middle-Aged (35-54),Early Stage (<20 years),<500K
+PA-BUS-5959788,Inc.,Food Service & Restaurant,428845,Pending,York,York,PA,President,Mixed-Use,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-3095208,Inc.,Wholesale Trade,749680,Active,Lancaster,Lancaster,PA,Director,Commercial,No,Small (<250),Young (<35),Mature Stage (20+ years),<500K
+PA-BUS-3301496,Inc.,Legal Services,412543,Dissolved,Bethlehem,Northampton,PA,Managing Partner,Mixed-Use,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-3868387,Inc.,Technology & IT,300844,Active,Pittsburgh,Allegheny,PA,Owner,Agricultural,No,Small (<250),Young (<35),Early Stage (<20 years),<500K
+PA-BUS-5517181,Inc.,Accounting & Tax,605635,Pending,Coatesville,Chester,PA,Director,Industrial,No,Small (<250),Young (<35),Early Stage (<20 years),<500K
+PA-BUS-3093993,Corp.,Financial Services,666699,Active,Coatesville,Chester,PA,Director,Industrial,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-6259001,DBA,Accounting & Tax,301467,Active,King of Prussia,Montgomery,PA,Director,Commercial,No,Small (<250),Middle-Aged (35-54),Early Stage (<20 years),500K-5M
+PA-BUS-3727728,LP,Accounting & Tax,732380,Active,West Chester,Chester,PA,CEO,Residential,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-3746863,Inc.,Auto Services,210934,Active,King of Prussia,Montgomery,PA,President,Commercial,No,Small (<250),Young (<35),Early Stage (<20 years),500K-5M
+PA-BUS-4005640,Corp.,Wholesale Trade,261537,Pending,Reading,Berks,PA,Owner,Commercial,No,Small (<250),Middle-Aged (35-54),Early Stage (<20 years),<500K
+PA-BUS-2758439,LLC,Insurance,198141,Dissolved,Erie,Erie,PA,Owner,Industrial,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-6295273,LLP,Professional Services,266096,Active,Norristown,Montgomery,PA,Director,Agricultural,No,Small (<250),Senior (55+),Early Stage (<20 years),500K-5M
+PA-BUS-8957610,Corp.,Education,433414,Dissolved,Norristown,Montgomery,PA,President,Industrial,No,Small (<250),Senior (55+),Early Stage (<20 years),<500K
+PA-BUS-9324675,Inc.,Accounting & Tax,326740,Active,Pittsburgh,Allegheny,PA,CEO,Residential,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
+PA-BUS-7473220,Corp.,Wholesale Trade,504927,Active,Philadelphia,Philadelphia,PA,Owner,Industrial,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),<500K
+PA-BUS-9744956,LLC,Transportation & Logistics,197310,Pending,Coatesville,Chester,PA,CEO,Residential,No,Small (<250),Young (<35),Mature Stage (20+ years),<500K
+PA-BUS-3394275,Corp.,Agriculture,621353,Active,Media,Delaware,PA,Owner,Residential,No,Small (<250),Senior (55+),Early Stage (<20 years),500K-5M
+PA-BUS-9483505,Inc.,Accounting & Tax,673756,Active,Pittsburgh,Allegheny,PA,President,Mixed-Use,No,Small (<250),Middle-Aged (35-54),Early Stage (<20 years),<500K
+PA-BUS-4407369,LLC,Transportation & Logistics,430995,Pending,Scranton,Lackawanna,PA,Principal,Industrial,No,Small (<250),Middle-Aged (35-54),Mature Stage (20+ years),500K-5M
+PA-BUS-1389098,Inc.,Personal Services,306448,Active,Reading,Berks,PA,President,Agricultural,No,Small (<250),Senior (55+),Mature Stage (20+ years),<500K
